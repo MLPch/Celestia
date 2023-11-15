@@ -25,3 +25,9 @@ replay_pid*
 .gitattributes
 .idea/workspace.xml
 .idea/vcs.xml
+/Celestia.iml
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
