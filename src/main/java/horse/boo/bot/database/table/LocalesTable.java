@@ -12,7 +12,6 @@ public class LocalesTable {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
-
     @Column(name = "guild_id")
     private long guildId;
 
